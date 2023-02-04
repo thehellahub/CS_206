@@ -1,0 +1,14 @@
+Questions for Josh Bongard
+
+
+Assignment 2 + 3:
+
+1.) Why is it that when the torso is the root (the first link), the hinges don't work properly?
+		When I set back leg as root, it does?
+			This goes against the instruction of Assignment2 (#46 part c)
+				Demo generate.py from Assignment3 with each Create_Robot method to illustrate
+
+
+2.) Why is it that when the BackLeg is the "root" (the first link created), the touch sensor still provides information?
+	This goes against the description in Assignment 3 "sensors" #11
+

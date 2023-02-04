@@ -1,14 +1,38 @@
 Questions for Josh Bongard
 
 
-Assignment 2 + 3:
+Assignment 2 + 3 + 4:
 
+
+Assignment 2
 1.) Why is it that when the torso is the root (the first link), the hinges don't work properly?
 		When I set back leg as root, it does?
 			This goes against the instruction of Assignment2 (#46 part c)
 				Demo generate.py from Assignment3 with each Create_Robot method to illustrate
 
 
+Assignment 3
 2.) Why is it that when the BackLeg is the "root" (the first link created), the touch sensor still provides information?
 	This goes against the description in Assignment 3 "sensors" #11
+
+
+3.) In instances where I want to create multiple robots via only defining the coordinate of the root node/link per robot, is it still possible to do this even though it appears I have to use absolute coordinates for the Torso_FrontLeg joint? How would this work?
+
+
+
+Assignment 4
+
+4.) Assignment 4, step 7 -- should this be "robotId"? instead of "robot"?
+
+
+Quiz 5:
+
+XOR has 6 synapses.. Fitness landscape dimension is N+1 where N = # synapses.. So it should be 7
+40:15-40:30
+Possible answers: 
+11, 9, 6, 10
+
+Is it bc of the 6 synapses + 4 fitness dimensions for each outcome? == 10?
+
+
 
