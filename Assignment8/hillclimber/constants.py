@@ -14,4 +14,4 @@ PHASE_OFFSET_FRONT_LEG 	= 5
 SENSOR_VALUES 			= "data/sensor_values.npy"
 MOTOR_VALUES 			= "data/motor_values.npy"
 
-NUMBER_OF_GENERATIONS	= 100
+NUMBER_OF_GENERATIONS	= 20
