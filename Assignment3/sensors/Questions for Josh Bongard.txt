@@ -8,15 +8,22 @@ Assignment 2
 1.) Why is it that when the torso is the root (the first link), the hinges don't work properly?
 		When I set back leg as root, it does?
 			This goes against the instruction of Assignment2 (#46 part c)
-				Demo generate.py from Assignment3 with each Create_Robot method to illustrate
+				Demo generate.py from Assignment3 sensors with each Create_Robot method to illustrate
+
+
+
+nromal joit on x axis (1,0,0)
+
+
+2.) In instances where I want to create multiple robots via only defining the coordinate of the root node/link per robot, is it still possible to do this even though it appears I have to use absolute coordinates for the Torso_FrontLeg joint? How would this work?
 
 
 Assignment 3
-2.) Why is it that when the BackLeg is the "root" (the first link created), the touch sensor still provides information?
+3.) Why is it that when the BackLeg is the "root" (the first link created), the touch sensor still provides information?
 	This goes against the description in Assignment 3 "sensors" #11
 
 
-3.) In instances where I want to create multiple robots via only defining the coordinate of the root node/link per robot, is it still possible to do this even though it appears I have to use absolute coordinates for the Torso_FrontLeg joint? How would this work?
+
 
 
 
@@ -33,6 +40,12 @@ Possible answers:
 11, 9, 6, 10
 
 Is it bc of the 6 synapses + 4 fitness dimensions for each outcome? == 10?
+
+
+thresholds for 3 activation functions
+
+N can be traits, genes, all things about phenotype (things were going to evolve)
+6 weights + 3 thresholds values = 9 genes total + 1 fitness dimension = 10
 
 
 
