@@ -1,6 +1,6 @@
 import math
 
-ITERATIONS      	 	= 500
+ITERATIONS      	 	= 1000
 MOTOR_STRENGTH  	 	= 30
 
 AMPLITUDE_BACK_LEG 	 	= math.pi/4
@@ -14,4 +14,4 @@ PHASE_OFFSET_FRONT_LEG 	= 5
 SENSOR_VALUES 			= "data/sensor_values.npy"
 MOTOR_VALUES 			= "data/motor_values.npy"
 
-NUMBER_OF_GENERATIONS	= 20
+NUMBER_OF_GENERATIONS	= 2000
