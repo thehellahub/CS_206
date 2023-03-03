@@ -1,0 +1,24 @@
+import math
+
+
+ARMS 					= 1
+
+# ITERATIONS      	 	= 1000
+# MOTOR_STRENGTH  	 	= 30
+
+# AMPLITUDE_BACK_LEG 	 	= math.pi/4
+# FREQUENCY_BACK_LEG 	 	= 8
+# PHASE_OFFSET_BACK_LEG  	= 5
+
+# AMPLITUDE_FRONT_LEG 	= math.pi/4
+# FREQUENCY_FRONT_LEG 	= 8
+# PHASE_OFFSET_FRONT_LEG 	= 5
+
+# NUM_SENSOR_NEURONS 		= 9
+# NUM_MOTOR_NEURONS 		= 8
+# SENSOR_VALUES 			= "data/sensor_values.npy"
+# MOTOR_VALUES 			= "data/motor_values.npy"
+# MOTOR_JOINT_RANGE		= 0.2
+
+# NUMBER_OF_GENERATIONS	= 10
+# POPULATION_SIZE			= 1
